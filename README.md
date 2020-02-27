@@ -1,8 +1,5 @@
-# README
-* Ruby version '2.6.3'
-
-Vegantary
-
+# Vegantary
+**Aplicacion en Desarrollo**
 Aplicacion para usuarios veganos: esta aplicacion se tratara de una base de datos para productos veganos, la cual sera alimentada por su misma comunidad
 
 Atribucciones de usuarios:
@@ -19,3 +16,13 @@ Atribucciones de usuarios:
 	
 Caracteristicas de la aplicacion:
 	-se tendra un catalogo por clasificacion de alimentos
+    ​
+![alt text][concept]
+​
+[concept]: /modelo_Vegantary.png "Diagrama conceptual"
+​
+El tablero Trello con el backlog y las historias de usuario está disponible en el siguiente link:
+​
+[Tablero Trello] https://trello.com/b/hVKJLaJe/random-app
+
+* Ruby version '2.6.3'
