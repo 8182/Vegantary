@@ -18,11 +18,10 @@ Caracteristicas de la aplicacion:
 	-se tendra un catalogo por clasificacion de alimentos
     ​
 ![alt text][concept]
-​
-[concept]: /modelo_Vegantary.png "Diagrama conceptual"
+​[concept]: /modelo_Vegantary.png "Diagrama conceptual"
 ​
 El tablero Trello con el backlog y las historias de usuario está disponible en el siguiente link:
 ​
-[Tablero Trello] https://trello.com/b/hVKJLaJe/random-app
+[Tablero Trello] https://trello.com/b/xZSuOUcI/vegantary
 
 * Ruby version '2.6.3'
