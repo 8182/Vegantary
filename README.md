@@ -16,13 +16,13 @@ Atribucciones de usuarios:
 	* podran eliminar posts que hayan sido reportados si no cumplen con los requisitos
 	
 Caracteristicas de la aplicacion:
-	*se tendra un catalogo por clasificacion de alimentos
+* se tendra un catalogo por clasificacion de alimentos
     ​
-![alt text][concept]
-​[concept]: /modelo_Vegantary.png "Diagrama conceptual"
+* ![alt text][concept]
+* ​[concept]: /modelo_Vegantary.png "Diagrama conceptual"
 ​
-El tablero Trello con el backlog y las historias de usuario está disponible en el siguiente link:
+- El tablero Trello con el backlog y las historias de usuario está disponible en el siguiente link:
 ​
-[Tablero Trello] https://trello.com/b/xZSuOUcI/vegantary
+- [Tablero Trello] https://trello.com/b/xZSuOUcI/vegantary
 
 * Ruby version '2.6.3'
