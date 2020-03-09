@@ -34,3 +34,9 @@ implementar:
 -api de consumo para el scanner
 -implementar buscador en index
 
+bootstrap:
+xs
+sm
+md
+lg
+xl
