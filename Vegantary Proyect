@@ -27,3 +27,10 @@ foto
 ingredientes
 descripcion
 visto en:
+
+implementar: 
+-vistas
+-boton de salida
+-api de consumo para el scanner
+-implementar buscador en index
+

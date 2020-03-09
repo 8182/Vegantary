@@ -13,3 +13,18 @@
  *= require_tree .
  *= require_self
  */
+ #barcode-scanner canvas.drawingBuffer, #barcode-scanner video.drawingBuffer {
+    display: none;
+  }
+  
+  #barcode-scanner canvas, #barcode-scanner video {
+    width: 45%;
+    height: auto;
+  }
+  #div.jumbotron {
+    background-image: url('../images/comida.jpg')
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+    text-align: right;
+  }

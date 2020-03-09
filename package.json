@@ -1,5 +1,8 @@
 {
   "name": "Vegantary",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "quagga": "^0.12.1"
+  }
 }
