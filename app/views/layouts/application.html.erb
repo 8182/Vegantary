@@ -13,9 +13,12 @@
 
 <%= render 'shared/navbar'%>
 <body class="<%= params[:controller].split("/").join("_") %> 
-<%= params[:action] %> 
-<%= yield(:body_class) %>">
+<%= params[:action] %>
+       <p class="notice"><%= notice %></p>
+       <p class="alert"><%= alert %></p>
+<%= yield(:body_class) %>
 <%= yield%>
+<%= render 'shared/footer'%>
 
 
   </body>
