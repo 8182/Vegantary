@@ -2,7 +2,7 @@
   "name": "Vegantary",
   "private": true,
   "dependencies": {
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "quagga": "^0.12.1"
   }
 }
